@@ -2,7 +2,7 @@
 
 My name is __Kalob__. I'm a software developer building startups in the great midwest city of Indianapolis.
 
-I have a lot of projects in React, but love expermienting with new technologies!
+I have a lot of projects in React, but love experimenting with new technologies!
 
 ## 🔎 Reach out if...
 
