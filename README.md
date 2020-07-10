@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello! 😄
 
-<!--
-**PorterK/PorterK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is __Kalob__. I'm a software developer building startups in the great midwest city of Indianapolis.
 
-Here are some ideas to get you started:
+I have a lot of projects in React, but love expermienting with new technologies!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 Reach out if...
+
+- You want to network in the Indianapolis area
+- You have a startup you want to talk about
+- You need code review for your React project
+- You just want a new friend!
+
+## 💬 Contact Info
+
+|Method|Contact|
+|---|---|
+|Email|kalob@kalob.net|
+|Twitter|[@porter_kalob](https://twitter.com/porter_kalob)|
+
+## Links
+
+- [Website](https://kalob.net)
+- [Blog](https://blog.kalob.net)
